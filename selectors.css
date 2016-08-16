@@ -2,3 +2,19 @@ header {
   border: 1px solid red;
 }
 
+.active {
+  color: yellow;
+}
+
+#makeRed {
+  color: red; 
+}
+
+#makeBlue {
+  color: blue;
+}
+
+.promo {
+  font-style: bold; 
+  color: gold;
+}

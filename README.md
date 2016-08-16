@@ -9,10 +9,10 @@ Paste the code below into your HTML document.
 5. Any text inside an element with a class of "active" should be colored yellow.
 6. Section elements should be contained within an article element.
 7. There are two missing closing tags in this document. Make sure you add them back in.
-8. Make the "I'm red" text colored red
-9. Make the "I'm blue" text colored blue
+8. Make the "I'm red" text colored red. DONE
+9. Make the "I'm blue" text colored blue. DONE
 10. The sibling h4 of the red element should have a background color of red
 11. The sibling h4 of the blue element should have background color of blue
 12. Any h4 that is a direct child of grandparent should have a 1px border with rounded corners.
-13. Elements with a class of promo should have bold text that is also colored gold.
+13. Elements with a class of promo should have bold text that is also colored gold. DONE. 
 14. Without adding any other attributes to the input fields in the footer, write a CSS selector that makes any text input field have a height of 25px.
